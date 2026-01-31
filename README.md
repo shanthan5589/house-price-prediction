@@ -55,7 +55,6 @@ house-price-prediction/
 ├── README.md                     # Project documentation
 ├── .gitignore                    # Git ignore file
 ├── LICENSE                       # MIT License
-├── GITHUB_SETUP.md              # GitHub setup guide
 │
 ├── data/                         # Data directory (not tracked)
 │   ├── house_price_train.csv
