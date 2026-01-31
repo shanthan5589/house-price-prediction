@@ -3,7 +3,7 @@
 ## 🏆 Competition Result
 - **Kaggle Rank**: 281
 - **Score**: 14765.10633
-- **Competition**: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- **Competition**: [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course)
 
 ## 📊 Project Overview
 This project implements a machine learning solution for predicting house prices using the Kaggle House Prices dataset. The model uses XGBoost regression with comprehensive feature preprocessing to achieve competitive results.
