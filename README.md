@@ -9,7 +9,7 @@
 This project implements a machine learning solution for predicting house prices using the Kaggle House Prices dataset. The model uses XGBoost regression with comprehensive feature preprocessing to achieve competitive results.
 
 ## 🎯 Model Performance
-- **Cross-Validation MAE**: 16,492.06
+- **Cross-Validation MAE**: 16413.50439
 - **Kaggle Public Leaderboard Score**: 14765.10633
 - **Evaluation Metric**: Mean Absolute Error (MAE)
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```
 
 3. Download the dataset from Kaggle:
-   - Visit the [competition page](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+   - Visit the [competition page](https://www.kaggle.com/competitions/home-data-for-ml-course/overview)
    - Download `train.csv` and `test.csv`
    - Rename them to `house_price_train.csv` and `house_price_test.csv`
    - Place them in the `data/` directory
@@ -137,7 +137,7 @@ Key parameters to experiment with:
 
 | Metric | Value |
 |--------|-------|
-| Cross-Validation MAE | 16,492.06 |
+| Cross-Validation MAE | 16413.50439 |
 | Kaggle Public Score | 14,765.10633 |
 | Kaggle Rank | 281 |
 
